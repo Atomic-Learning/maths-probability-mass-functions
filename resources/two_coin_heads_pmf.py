@@ -13,7 +13,7 @@ def plot_two_coin_heads_pmf() -> None:
 	probs = list(pmf.values())
 
 	plt.figure(figsize=(8, 4.5))
-	plt.stem(outcomes, probs, basefmt=" ")
+	plt.bar(outcomes, probs, width=0.55, color="#1f77b4")
 	plt.title("PMF of Number of Heads in Two Fair Coin Tosses")
 	plt.xlabel("Number of Heads")
 	plt.ylabel("Probability")
