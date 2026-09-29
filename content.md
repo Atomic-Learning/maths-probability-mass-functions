@@ -5,7 +5,7 @@ A probability mass function (PMF) describes the probability of a discrete random
 For example, if X is a discrete random variable representing the outcome of a fair six-sided die, the PMF of X would assign a probability of 1/6 to each possible outcome (1, 2, 3, 4, 5, 6). We would represent this as:
 
 $$
-P(X = i) = \cases{\frac{1}{6}, & i = 1, 2, 3, 4, 5, 6 \\ 0, & \text{otherwise}}
+P(X = i) = \begin{cases} \frac{1}{6}, & i = 1, 2, 3, 4, 5, 6 \\ 0, & \text{otherwise} \end{cases}
 $$
 
 ## Visualisation with a Stem Diagram
