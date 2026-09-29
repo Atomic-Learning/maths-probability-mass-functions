@@ -1,22 +1,20 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Maths: Probability Mass Functions",
+    "slug": "maths-probability-mass-functions",
+    "description": "How the probability mass function describes the probability of a number of discrete outcomes, along with some basic properties.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "maths",
+        "statistics"
     ],
-    "duration": 0,
+    "duration": 3,
     "prerequisites": [
-        "",
-        ""
+        "maths-summation-notation"
     ],
     "related": [
-        "",
-        ""
+        "maths-probability-density-functions",
+        "maths-cumulative-distribution-functions"
     ]
 }
