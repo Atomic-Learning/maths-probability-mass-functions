@@ -15,7 +15,7 @@ $$
 
 ## Visualisation with a Stem Diagram
 
-A stem plot like the one below is a visual representation of the PMF. It emphasises the discrete nature of the random variable and makes it easy to compare the probabilities of different outcomes.
+A stem plot like the one below is one way to visually represent the PMF. It emphasises the discrete nature of the random variable and makes it easy to compare the probabilities of different outcomes.
 
 ![PMF of Number of Heads in Two Fair Coin Tosses](resources/two_coin_heads_pmf.png)
 
