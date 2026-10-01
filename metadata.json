@@ -15,6 +15,7 @@
     ],
     "related": [
         "maths-probability-density-functions",
-        "maths-cumulative-distribution-functions"
+        "maths-cumulative-distribution-functions",
+        "maths-binomial-distribution"
     ]
 }
